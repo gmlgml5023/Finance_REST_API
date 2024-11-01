@@ -1,5 +1,11 @@
 # 1. 프로젝트 소개
-- 금융 상품 데이터를 활용한 REST API Server 구축
+- 금융 상품 데이터를 활용한 REST API Server 구축\
+- 팀원
+    | 팀원   | 역할               | github                                           |
+    |--------|--------------------|--------------------------------------------------|
+    | 김가희 | navigator         | https://github.com/gmlgml5023 |
+    | 황예원 | driver     |  https://github.com/cakejuuu  |
+
 
 <br>
 
