@@ -4,7 +4,7 @@
     | 팀원   | 역할               | github                                           |
     |--------|--------------------|--------------------------------------------------|
     | 김가희 | navigator         | https://github.com/gmlgml5023 |
-    | 황예원 | driver     |  https://github.com/cakejuuu  |
+    | 황예원 | driver     |  https://github.com/yeahhh1e  |
 
 
 <br>
